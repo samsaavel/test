@@ -1,0 +1,11 @@
+Indicaciones para subir un repo:
+
+en el proyecto:
+ -- git init
+ -- git add .
+ -- git commit -m "primer comentario del primer commit al proyecto"
+
+en la cuenta de github debemos de crear un repositorio y copiar la url del repo
+volvemos al proyecto y le damos
+ -- git remote add origin url/proyecto/creado/enGitHub
+ -- git push -u origin master
